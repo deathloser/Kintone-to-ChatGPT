@@ -1,7 +1,9 @@
 You have to install the python package into your terminal: to prepare your data
 
 brew reinstall python@3.11
+
 pip3 install openai
+
 openai
 
 Change headers to "prompt" and "completion"
