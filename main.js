@@ -36,7 +36,7 @@ import { gpt_util } from './gpt_util';
 
     const params = {
       prompt: 'How can I add?',
-      model: 'ada:ft-personal-2023-05-25-15-11-30',
+      model: 'MY-MODEL-ID',
       max_tokens: 10,
       temperature: 0,
     };
